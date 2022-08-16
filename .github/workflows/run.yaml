@@ -14,6 +14,7 @@ jobs:
           commit-message: Update report
           committer: GitHub <noreply@github.com>
           author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
+          branch: example-patches
           title: '[Example] Update report q1wqqw'
           body: |
             Update report

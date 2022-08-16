@@ -1,4 +1,4 @@
-name: Update AUTHORS
+name: Update 
 on:
   push:
     branches:

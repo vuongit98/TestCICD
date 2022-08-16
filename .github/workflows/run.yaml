@@ -10,6 +10,7 @@ jobs:
       - uses: actions/checkout@v3
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
+        delete-branch: true
         with:
           commit-message: update authors 123
           title: Update test.txt 123

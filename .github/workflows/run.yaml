@@ -16,4 +16,4 @@ jobs:
           commit-message: update authors 123
           title: Update test.txt 123
           body: Credit new contributors by updating vuong 123
-          branch: master
+          branch: update-authors

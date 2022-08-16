@@ -13,7 +13,7 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
-          commit-message: update authors
-          title: Update test.txt
-          body: Credit new contributors by updating vuong
+          commit-message: update authors 123
+          title: Update test.txt 123
+          body: Credit new contributors by updating vuong 123
           branch: update-authors
